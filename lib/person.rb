@@ -7,6 +7,8 @@ def initialize (name:, birthday:, hair_color:, eye_color:, height:, weight:, han
 wrist_size:, glove_size:, pant_length:, pant_width:)
 
 @name = name
+@birthday = birthday
+@hair_color = hair_color
 
 end
 end
