@@ -10,7 +10,7 @@ wrist_size:, glove_size:, pant_length:, pant_width:)
 @birthday = birthday
 @hair_color = hair_color
 @eye_color = eye_color
-@height = height 
+@height = height
 @weight = weight
 @handed = handed
 @complexion = complexion
